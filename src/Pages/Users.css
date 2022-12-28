@@ -1,0 +1,21 @@
+.Users {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.usersList {
+    border: 1px solid rgb(213, 213, 213);
+    background-color: rgb(213, 213, 213);
+    width: 500px;
+    height: 100px;
+    margin-bottom: 40px;
+}
+p {
+    font-size: 20px; 
+    color: rgb(0, 0, 0);
+}
+h3 {
+    font-size: 20px; 
+    color: rgb(180, 255, 180);
+}   
